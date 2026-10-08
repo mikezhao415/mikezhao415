@@ -1,31 +1,38 @@
 # Hi, I'm Mike 👋
 
-I'm a data analyst building beyond the traditional reporting layer — combining analytics, automation, and software engineering to create reliable, maintainable systems.
+I work at the intersection of **data, systems, and engineering**. My background spans project delivery, business intelligence, analytics, and process improvement; I'm now applying those foundations to building more reliable analytical workflows and software.
 
-My current focus is **BI as Code**: bringing software-development practices such as Git, automated testing, CI/CD, reusable components, and code-driven workflows into business intelligence and analytics.
+I care about **better systems, more useful data, and thoughtful software**.
 
-I'm also expanding deeper into software engineering by building production applications and the systems around them.
+📍 San Diego, California · [Portfolio](https://mikezhao.dev) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/)
 
-## What I'm working on
+## What I'm exploring and building
 
-- 📊 **BI as Code** — version-controlled analytics, semantic models, automated validation, CI/CD, and reproducible BI workflows
-- 🧱 **Analytics Engineering** — SQL, data modeling, transformation, testing, and reusable metrics
-- ⚙️ **Automation** — reducing manual analytical and operational workflows with code
-- 💻 **Software Development** — building full-stack applications and learning production architecture through real projects
-- 🤖 **AI-assisted engineering** — using AI as part of a controlled development workflow with testing, review, and validation
+- 📊 **BI as Code** — exploring how version control, modular development, automated validation, and repeatable delivery can strengthen BI workflows. This is an early-stage professional exploration, not a claim of organization-wide adoption.
+- 🧱 **Analytics engineering** — drawing on professional SQL, data modeling, reporting architecture, verification, and technical documentation experience.
+- ⚙️ **Automation** — making analytical and operational workflows more repeatable and maintainable.
+- 💻 **Software development** — building personal applications with Next.js, React, TypeScript, Git, and deployment workflows.
+- 🤖 **Responsible AI-assisted development** — using AI alongside human review, security awareness, and validation rather than treating generated code as automatically production-ready.
 
-## Current journey
+## My path
 
-**Data Analyst → Analytics / BI Engineer → Software Builder**
+**Project delivery → Data & analytics → Analytics engineering practices → Software building**
 
-I'm documenting both the finished work and the engineering practices behind it.
+The throughline is translating complex problems into useful, maintainable systems. My software projects are personal work and ongoing learning, distinct from my professional analytics responsibilities.
 
-## Featured work
+## Selected work
 
-### mikezhao.dev
-My personal site and portfolio. It will collect project case studies, technical writing, and the work behind my transition from analytics into engineering.
+### [mikezhao.dev](https://mikezhao.dev)
+
+My live personal portfolio, built with Next.js and TypeScript and deployed on Vercel. It brings together selected work, career experience, capabilities, and education in a responsive, accessible presentation.
+
+- [Explore the website](https://mikezhao.dev)
+- [View the source](https://github.com/mikezhao415/mikezhao.dev)
 
 ### BI as Code
-A practical exploration of treating analytics as an engineered system: source data → transformation → semantic model → tests → dashboard → CI.
 
-> Both projects are being built in public. More soon.
+An ongoing exploration of applying software-engineering discipline to analytics: reusable transformations, version-controlled changes, testing, documentation, and repeatable delivery. I describe professional examples at a high level to respect employer and customer confidentiality.
+
+---
+
+**Let's connect:** [mikezhao.dev](https://mikezhao.dev/#contact) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/)
