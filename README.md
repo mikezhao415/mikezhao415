@@ -2,9 +2,7 @@
 
 I'm a **Principal Data Informatics Analyst** working across business intelligence, data modeling, and analytics engineering. I build reliable analytical systems that turn complex operational data into useful, tested, and maintainable products.
 
-I'm pursuing **remote Data Engineer and Analytics Engineer roles** where I can deepen my cloud and data-platform skills and contribute to teams that use **AI-assisted development responsibly**—with code review, automated tests, and clear engineering standards.
-
-[Portfolio](https://mikezhao.dev) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/) · [Get in touch](https://mikezhao.dev/#contact)
+I'm focused on building reliable data systems, expanding my cloud and data-platform engineering skills, and applying **AI-assisted development responsibly** through code review, automated testing, and clear engineering standards.
 
 ## Featured project: AdventureWorks Analytics
 
