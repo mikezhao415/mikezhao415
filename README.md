@@ -1,38 +1,41 @@
 # Hi, I'm Mike 👋
 
-I work at the intersection of **data, systems, and engineering**. My background spans project delivery, business intelligence, analytics, and process improvement; I'm now applying those foundations to building more reliable analytical workflows and software.
+I'm a **Principal Data Informatics Analyst** working across business intelligence, data modeling, and analytics engineering. I build reliable analytical systems that turn complex operational data into useful, tested, and maintainable products.
 
-I care about **better systems, more useful data, and thoughtful software**.
+I'm pursuing **remote Data Engineer and Analytics Engineer roles** where I can deepen my cloud and data-platform skills and contribute to teams that use **AI-assisted development responsibly**—with code review, automated tests, and clear engineering standards.
 
-📍 San Diego, California · [Portfolio](https://mikezhao.dev) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/)
+[Portfolio](https://mikezhao.dev) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/) · [Get in touch](https://mikezhao.dev/#contact)
 
-## What I'm exploring and building
+## Featured project: AdventureWorks Analytics
 
-- 📊 **BI as Code** — exploring how version control, modular development, automated validation, and repeatable delivery can strengthen BI workflows. This is an early-stage professional exploration, not a claim of organization-wide adoption.
-- 🧱 **Analytics engineering** — drawing on professional SQL, data modeling, reporting architecture, verification, and technical documentation experience.
-- ⚙️ **Automation** — making analytical and operational workflows more repeatable and maintainable.
-- 💻 **Software development** — building personal applications with Next.js, React, TypeScript, Git, and deployment workflows.
-- 🤖 **Responsible AI-assisted development** — using AI alongside human review, security awareness, and validation rather than treating generated code as automatically production-ready.
+An end-to-end **BI-as-Code analytics engineering project** built around Microsoft's fictional AdventureWorks 2022 transactional data.
 
-## My path
+- **Ingestion and reproducibility:** read-only SQL Server extraction, validated Parquet snapshots, and traceable manifests.
+- **Analytics engineering:** Python, DuckDB, dbt Core, dimensional models, and business-ready sales marts.
+- **Quality and delivery:** independent financial reconciliation, data tests, regression checks, GitHub Actions CI, and fail-closed publication controls.
+- **Analytics product:** a published Next.js dashboard with filters, sales trends, and customer, product, category, and territory analysis.
 
-**Project delivery → Data & analytics → Analytics engineering practices → Software building**
+The dashboard serves a reviewed **static aggregate**, not a live database or streaming pipeline. Source ingestion and transformations run locally; the published dataset is fictional sample data.
 
-The throughline is translating complex problems into useful, maintainable systems. My software projects are personal work and ongoing learning, distinct from my professional analytics responsibilities.
+**[Explore the dashboard](https://adventureworks.mikezhao.dev)** · **[Read the case study](https://mikezhao.dev/projects/adventureworks-analytics)** · **[View the source](https://github.com/mikezhao415/adventureworks-analytics)**
 
-## Selected work
+## Skills and focus
 
-### [mikezhao.dev](https://mikezhao.dev)
+- **Data and analytics:** SQL (including Oracle and SQL Server), Python, dimensional modeling, data quality, reconciliation, business intelligence, Power BI.
+- **Analytics engineering:** dbt, DuckDB, Parquet, reproducible pipelines, version control, automated testing, CI/CD.
+- **Software and delivery:** GitHub Actions, Next.js, TypeScript, React, technical documentation, accessible dashboard development.
+- **Engineering practices:** thoughtful system design, AI-assisted implementation with human review, security and provenance checks.
 
-My live personal portfolio, built with Next.js and TypeScript and deployed on Vercel. It brings together selected work, career experience, capabilities, and education in a responsive, accessible presentation.
+My professional experience centers on enterprise reporting, analytics, and automation. My public projects demonstrate additional hands-on engineering practices; they are not claims of production cloud-platform experience.
 
-- [Explore the website](https://mikezhao.dev)
-- [View the source](https://github.com/mikezhao415/mikezhao.dev)
+## What I'm building toward
 
-### BI as Code
+My next portfolio focus is **cloud data engineering**: scheduled ingestion of changing public data, infrastructure as code, observability, recoverable pipeline execution, and practical AI-assisted engineering workflows. This is planned work, not yet a deployed system.
 
-An ongoing exploration of applying software-engineering discipline to analytics: reusable transformations, version-controlled changes, testing, documentation, and repeatable delivery. I describe professional examples at a high level to respect employer and customer confidentiality.
+## More work
+
+**[mikezhao.dev](https://mikezhao.dev)** — my personal portfolio and case studies, built with Next.js and TypeScript and deployed on Vercel. [Source](https://github.com/mikezhao415/mikezhao.dev).
 
 ---
 
-**Let's connect:** [mikezhao.dev](https://mikezhao.dev/#contact) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/)
+**Let's connect:** [Portfolio](https://mikezhao.dev) · [LinkedIn](https://www.linkedin.com/in/mikezhao415/) · [Contact](https://mikezhao.dev/#contact)
