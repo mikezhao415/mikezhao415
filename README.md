@@ -11,11 +11,12 @@ An end-to-end **BI-as-Code analytics engineering project** built around Microsof
 - **Ingestion and reproducibility:** read-only SQL Server extraction, validated Parquet snapshots, and traceable manifests.
 - **Analytics engineering:** Python, DuckDB, dbt Core, dimensional models, and business-ready sales marts.
 - **Quality and delivery:** independent financial reconciliation, data tests, regression checks, GitHub Actions CI, and fail-closed publication controls.
+- **Interactive lineage:** dbt model and source dependency visualization with upstream/downstream exploration, using separately reviewed metadata publication.
 - **Analytics product:** a published Next.js dashboard with filters, sales trends, and customer, product, category, and territory analysis.
 
-The dashboard serves a reviewed **static aggregate**, not a live database or streaming pipeline. Source ingestion and transformations run locally; the published dataset is fictional sample data.
+The dashboard serves a reviewed **static aggregate**, not a live database or streaming pipeline. Source ingestion and transformations run locally; the published dataset is historical fictional sample data. Lineage metadata is a separately approved historical snapshot with manual refresh.
 
-**[Explore the dashboard](https://adventureworks.mikezhao.dev)** · **[Read the case study](https://mikezhao.dev/projects/adventureworks-analytics)** · **[View the source](https://github.com/mikezhao415/adventureworks-analytics)**
+**[Explore the dashboard](https://adventureworks.mikezhao.dev)** · **[Explore lineage](https://adventureworks.mikezhao.dev/lineage)** · **[Read the case study](https://mikezhao.dev/projects/adventureworks-analytics)** · **[View the source](https://github.com/mikezhao415/adventureworks-analytics)**
 
 ## Skills and focus
 
